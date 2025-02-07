@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, We are NoobDev-Sergipe</h1>
 <h3 align="center">We are a team of developers from the state of Sergipe and our purpose is to make people's lives easier.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noobdev-sergipe&label=Profile%20views&color=0e75b6&style=flat" alt="noobdev-sergipe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noobdev-sergipe&label=Profile%20views&color=0e75b6&style=flat" alt="aguiar.dev" /> </p>
 
-<p align="left"> <a href="https://github.com/NoobDev-Sergipe"><img src="https://avatars.githubusercontent.com/u/139388415?s=200&v=4" alt="noobdev-sergipe" /></a> </p>
+<p align="left"> <a href="https://github.com/NoobDev-Sergipe"><img src="https://avatars.githubusercontent.com/u/139388415?s=200&v=4" alt="aguiar.dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
